@@ -61,7 +61,7 @@
             }
         });   
         talking = true;
-        var ws = new WebSocket('ws://localhost:8081');
+        var ws = new WebSocket('ws://localhost:8080');
         
         ws.addEventListener("message", function (e) {
             var msg = e.data;

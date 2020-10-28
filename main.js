@@ -1,7 +1,7 @@
 const WebSocket = require('ws')
 var http = require('http');
 var url = require('url');
-var port = 8081
+var port = 8080
 var st = require('node-static');
 
 var mysql = require('mysql'); //npm i
