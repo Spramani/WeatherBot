@@ -1,7 +1,7 @@
 # WeatherBot
 Simple Weather Bot  - The Weather guide. WeatherBot is developed using NodeJS, MySql and Web Socket.
 
-To run the Foodie Bot :-
+To run the Weather Bot :-
 1. Open terminal in vscode
 2. Run the command - npm i (to install the required packages)
 3. After installing required packages, run the " node main.js " command
