@@ -1,4 +1,4 @@
-# FoodieBot
+# WeatherBot
 Simple Weather Bot  - The Weather guide. WeatherBot is developed using NodeJS, MySql and Web Socket.
 
 To run the Foodie Bot :-
